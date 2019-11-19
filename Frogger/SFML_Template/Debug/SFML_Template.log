@@ -1,0 +1,72 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Object.cpp
+h:\desktop\frogger\frogger\sfml_template\src\object.cpp(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\object.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\object.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Frog.cpp
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\frogger\frogger\sfml_template\src\frog.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(99): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(100): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(101): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(102): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(103): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(104): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(106): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(107): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(108): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(109): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(110): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(111): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(112): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(114): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(115): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(116): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(117): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(140): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(141): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(142): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(143): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(145): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(146): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(147): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(148): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(149): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(150): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(165): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(166): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(167): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(168): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(169): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(170): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(171): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(172): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(173): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(175): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(176): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(308): warning C4018: '<': signed/unsigned mismatch
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(337): warning C4018: '<': signed/unsigned mismatch
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(364): warning C4018: '<': signed/unsigned mismatch
+h:\desktop\frogger\frogger\sfml_template\src\main.cpp(382): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SFML_Template.vcxproj -> H:\Desktop\Frogger\Frogger\Debug\Frogger.exe
